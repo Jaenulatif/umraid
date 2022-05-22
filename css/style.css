@@ -1,0 +1,304 @@
+/* Inisial */
+:root{
+    --button-color: #7CB041;
+}
+
+/* Navbar */
+#navbar{
+    background-color: #fff;
+}
+#header-information{
+    background-color: #7CB041;
+    height: 50px;
+    color: #fff;
+    padding-top: 10px ;
+}
+
+#header-information ul {
+    display: inline-block;
+    /* margin-right: 11rem; */
+}
+
+#header-information ul li {
+    align-items: center;
+    display: inline-block;
+    padding: 0px 10px;
+}
+
+#header-information ul li img {
+    margin-right: 10px;
+    width: 20px;
+}
+
+/* End Navbar */
+
+/* Search */
+#search{
+    background-color: #006B67;
+    min-height: 400px;
+    padding-top:75px;
+    border-radius: 0px 0px 50px 50px;
+}
+
+#search h1{
+    text-align: center;
+    color: white;
+    font-family: monospace;
+}
+
+#sub-search{
+    background-color: #fff;
+    height: 10rem;
+    border-radius: 15px;
+}
+
+#search .inp{
+    border: solid 1px lightgrey;
+    border-radius: ;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+
+#search .inp{
+    color: #ACB5BD;
+}
+
+#search .inp select {
+
+}
+#search #img-search{
+    width: 20px;
+    margin-right: 10px;
+}
+
+#search .inp .img-inp{
+    width: 20px;
+}
+
+
+#search button{
+    width: 150px;
+    background-color: var(--button-color);
+}
+
+/* End Search */
+
+
+
+/* Paket Umara.id */
+#paket-id{
+    margin-top: 100px;
+}
+
+#paket-id h1{
+    text-align: center;
+    color: #006B67;
+    margin-bottom: 20px;
+}
+
+#paket-id .paket-title{
+    background-color: #006B67;
+    color: white;
+    font-weight: bold;
+}
+
+#paket-id .list-group li{
+    border: none;
+}
+#paket-id ul{
+    border: none;
+}
+
+#paket-id img{
+    margin-right: 10px;
+}
+
+#paket-id a{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    width: 100px;
+    background-color: var(--button-color);
+    border: none;
+}
+/* End Paket Umara.id */
+
+
+/* Paket Plus */
+#paket-plus{
+    margin-top: 100px;
+}
+
+#paket-plus h1{
+    text-align: center;
+    color: #006B67;
+    margin-bottom: 20px;
+}
+
+#paket-plus .paket-title{
+    background-color: #C6B731;
+    color: white;
+    font-weight: bold;
+}
+
+#paket-plus .list-group li{
+    border: none;
+}
+#paket-plus ul{
+    border: none;
+}
+
+#paket-plus img{
+    margin-right: 10px;
+}
+
+#paket-plus a{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    width: 100px;
+    background-color: var(--button-color);
+    border: none;
+}
+/* End Paket Plus */
+
+/* Paket Wisata Halal */
+#paket-wisata-halal{
+    margin-top: 100px;
+}
+
+#paket-wisata-halal h1{
+    text-align: center;
+    color: #006B67;
+    margin-bottom: 20px;
+}
+
+#paket-wisata-halal .paket-title{
+    background-color: #ACB5BD;
+    color: white;
+    font-weight: bold;
+}
+
+#paket-wisata-halal .list-group li{
+    border: none;
+}
+#paket-wisata-halal ul{
+    border: none;
+}
+
+#paket-wisata-halal img{
+    margin-right: 10px;
+}
+
+#paket-wisata-halal a{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    width: 100px;
+    background-color: var(--button-color);
+    border: none;
+}
+/* End Paket Wisata Halal */
+
+/* Umrapreneur */
+#umrapreneur{
+    padding-top: 100px;
+    background-color: #F8F9FA;
+}
+
+#umrapreneur #top-umrapreneur{
+    border: none;
+    background-color: #F8F9FA;
+}
+
+#umrapreneur #top-umrapreneur a{
+    margin-bottom: 50px;
+    width: 200px;
+    background-color: #C6B731;
+}
+
+#umrapreneur #top-umrapreneur p{
+    font-size: 30px;
+}
+
+
+#umrapreneur #bottom-umrapreneur{
+    margin-top: 50px;
+}
+
+#umrapreneur #bottom-umrapreneur .title{
+    margin-top: 20px;
+}
+
+#umrapreneur #bottom-umrapreneur h4{
+    color: #006B67;
+}
+
+#umrapreneur #bottom-umrapreneur p{
+    margin-top: 30px;
+}
+
+#umrapreneur #bottom-umrapreneur a{
+    margin-top: 30px;
+    background-color: var(--button-color);
+}
+
+/*End Umrapreneur  */
+
+/* Pengalaman */
+#pengalaman{
+    margin: 100px 0px 0px 0px;
+}
+
+#pengalaman h1{
+    color: #006B67;
+    margin-bottom: 50px;
+}
+/* End Pengalaman */
+
+/* Kolaborasi */
+#kolaborasi{
+    margin: 100px 0px 0px 0px;
+}
+
+#kolaborasi h1{
+    color: #006B67;
+    margin-bottom: 50px;
+}
+/* End Kolaborasi */
+
+/* Liputan */
+#liputan{
+    margin: 100px 0px 0px 0px;
+}
+
+#liputan h1{
+    color: #006B67;
+    margin-bottom: 50px;
+}
+/* End Liputan */
+
+/* Footer 1 */
+#footer-1{
+    margin: 100px 0px 10px 0px;
+}
+
+#footer-1 a{
+    border-radius: 30px;
+    background-color: white;
+    color: #4CAF50;
+    border: none;
+    box-shadow: 1px 2px 2px 2px #c2c2c2;
+}
+
+#footer-1 p{
+    font-size: 20px;
+}
+/* End Footer 1 */
+
+/* Footer 2 */
+#footer-2{
+    background-color: var(--button-color);
+    height: 75px;
+    padding-top: 25px;
+}
+
+
+/* End Footer 2 */
